@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+based on https://github.com/vuejs-templates/pwa
+
 ## Build Setup
 
 ``` bash

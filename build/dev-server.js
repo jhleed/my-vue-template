@@ -1,5 +1,7 @@
 'use strict'
 
+//TODO Backend의 설정들을 빌려온다.
+
 require('./check-versions')()
 
 const config = require('../config')
